@@ -1,5 +1,22 @@
-## Robson Mafra
+<p align="center">
+  <img src="me-robson-mafra.png" width="200">
+  <h1 align="center">Robson Mafra</h1>
+  <p align="center">
+    ∙ Software Engineer ∙<br>
+    ∙ Agile developer ∙<br>
+    ∙ Co-founder at <a target="_blank" href="https://surdoparasurdo.com.br">Surdo para Surdo</a> ∙<br>
+  </p>
+  <p align="center">
+    🤓🌎
+  </p>
+</p>
 
-I am Robson, social impact entrepreneur, developer and passionate about technology. I have ten years of Software Development experience, using Agile Methodologies and developing software that solves real problems.
+---
+<p align="center">
+  I am Robson, social impact entrepreneur, developer and passionate about technology.
+  I have ten years of Software Development experience, using Agile Methodologies and developing software that solves real problems.
+</p>
 
-You can find my LinkedIn profile [here](https://www.linkedin.com/in/robsonvmafra)
+<p align="center">
+  You can find my LinkedIn profile <a target="_blank" href="https://www.linkedin.com/in/robsonvmafra">here</a>.
+</p>
