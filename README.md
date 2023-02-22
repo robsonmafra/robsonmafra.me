@@ -2,9 +2,9 @@
   <img src="me-robson-mafra.png" width="200">
   <h1 align="center">Robson Mafra</h1>
   <p align="center">
-    ∙ Software Engineer ∙<br>
+    ∙ Product Software Engineer ∙<br>
     ∙ Agile developer ∙<br>
-    ∙ Co-founder at <a target="_blank" href="https://surdoparasurdo.com.br">Surdo para Surdo</a> ∙<br>
+    ∙ Co-founder at <a target="_blank" href="https://www.inboarding.co">Inboarding</a> ∙<br>
   </p>
   <p align="center">
     🤓🌎
